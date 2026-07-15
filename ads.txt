@@ -1,0 +1,4 @@
+# Replace with the exact line Google AdSense gives you after you sign up,
+# e.g.: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# This file must live at the root of your domain (yourdomain.com/ads.txt)
+# for AdSense to verify your site as an authorized seller.
